@@ -1,0 +1,5 @@
+gym~=0.15.3
+matplotlib==3.4.3
+numpy==1.21.3
+pygame==1.9.6
+-e git+https://github.com/ertsiger/hrm-minigrid.git#egg=gym-minigrid

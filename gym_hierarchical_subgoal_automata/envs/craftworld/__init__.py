@@ -1,0 +1,1 @@
+from gym_hierarchical_subgoal_automata.envs.craftworld.craftworld_env import CraftWorldEnv
